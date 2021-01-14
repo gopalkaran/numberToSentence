@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    color: white;
+}
+header{
+    background-color: #45f;
+    padding: 1.5rem;
+}
+header h1{
+    text-align: center;
+}
+section div{
+    max-width: 600px;
+    width: 80%;
+    height: 20vh;
+    background-color: lightgray;
+    margin: 1rem auto;
+}
+section h2{
+    text-align: center;
+    color: black;
+}
+section button{
+    padding: 0.7rem 2rem;
+    border: 2px solid black;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background-color: #45f;
+    color: white;
+    font-size: 1.3rem;
+}
+section textarea{
+    height: 20vh;
+    max-width: 600px;
+    width: 80%;
+    margin: 1rem auto;
+    display: block;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+section #op{
+    color: black;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+footer{
+    background-color: #45f;
+    padding: 1.5rem;
+}
+footer h3{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
